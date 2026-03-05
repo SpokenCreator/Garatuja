@@ -1,3 +1,3 @@
 # Garatujas do Igor Aragão
 
-## HTML - 
+## [HTML] - O HTML é uma linguagem de marcação
