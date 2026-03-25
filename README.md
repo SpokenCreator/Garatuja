@@ -1,7 +1,9 @@
 # Garatujas de Igor Aragão
 
-## [HTML] - O HTML é uma linguagem de marcação
+## [HTML] - (Pro eu do futuro)
 
-## [CSS] - O CSS é uma linguagem de estilização.
+## [CSS] - (Pro eu do futuro)
 
 ## Java vs Javascript vs TypeScript
+
+### Classe
