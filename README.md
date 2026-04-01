@@ -14,6 +14,6 @@
 
 ### - Para que serve o "this" sendo que a variável já tem seu nome único
 
-### - Por que se deve usar herança, ao invés de método
+### - Por que eu deveria usar uma herança, ao invés de um método.
 
 ### - Qual a diferença entre encapsulamento "private" e "protected"
