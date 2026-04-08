@@ -6,7 +6,7 @@
 
 ## Java vs Javascript vs TypeScript
 
-### Classe
+### Classe: 
 
 ## Perguntas sobre Programação Orientada a Objetos (POO)
 
