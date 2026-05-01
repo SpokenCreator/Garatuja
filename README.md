@@ -20,31 +20,69 @@ JavaScript é a única linguagem de programação nativa dos navegadores, e é e
 ## Projeto de site pessoal
 
 ### Versão professor
+Está na pasta "proj1"
+
+---
 
 ### Versão Pessoal
+Está na pasta "proj1"
+
+---
 
 ## Java vs Javascript vs TypeScript
 
+| Java | JavaScript | TypeScript |
+| ---- | ---------- | ---------- |
+| Java é uma linguagem independente, fortemente tipada e orientada a objetos, usada principalmente em sistemas corporativos e back-end. Não tem relação com JavaScript além do nome. | JavaScript é a linguagem nativa do navegador, dinamicamente tipada e flexível. Por ser resolvida em tempo de execução, erros só aparecem quando o código já está rodando. | TypeScript é JavaScript com tipagem estática opcional, criado pela Microsoft. No final sempre compila para JavaScript puro — é basicamente uma camada de segurança em cima dele, útil em projetos maiores. |
+
+> **Em uma frase: Java é outra linguagem, JavaScript roda na web, TypeScript é JavaScript mais seguro.**
+
 ## Revisão de POO
 
-### Classe: 
+### Classe
+Classe é o molde. Ela define como algo deve ser, quais características e comportamentos um elemento terá. Pense numa planta baixa de uma casa: ela não é a casa, mas descreve como a casa será construída.
 
-### Objeto:
+---
 
-### Atributo: 
+### Objeto
+Objeto é a instância da classe, a casa construída a partir da planta. Você pode criar vários objetos a partir de uma mesma classe, cada um com seus próprios valores.
 
-### Método: 
+---
 
-### Getters e Setters: 
+### Atributo:
+Atributo são as características do objeto. Se a classe é `Carro`, os atributos podem ser `cor`, `marca` e `velocidade`. É basicamente uma variável que pertence à classe.
 
-### Construtor: 
+---
 
-### Herança: 
+### Método
+Método é o comportamento do objeto — o que ele pode fazer. Ainda no ´Carro´, métodos seriam ´acelerar()´, ´frear()´ e ´ligar()´. É basicamente uma função que pertence à classe.
 
-### Encapsulamento: 
+---
 
-### Polimorfismo: 
+### Getters e Setters
+Getters e Setters são métodos usados para ler e alterar atributos de forma controlada. O getter lê o valor, o setter define. Existem para proteger os dados internos do objeto, evitando que sejam modificados de qualquer jeito de fora.
 
+---
+
+### Construtor
+Construtor é um método especial executado automaticamente quando um objeto é criado. É nele que você passa os valores iniciais do objeto, como ´new Carro("vermelho", "Toyota")´.
+
+---
+
+### Herança
+Herança permite que uma classe herde atributos e métodos de outra. Uma classe ´CarroEsportivo´ pode herdar de ´Carro´ e reaproveitar tudo que já existe, adicionando apenas o que for diferente.
+
+---
+
+### Encapsulamento
+Encapsulamento é o princípio de esconder os detalhes internos do objeto, expondo só o necessário. É o que garante que ninguém mexa diretamente nos atributos sensíveis — daí a importância dos getters e setters.
+
+---
+
+### Polimorfismo
+Polimorfismo é a capacidade de objetos diferentes responderem ao mesmo método de formas distintas. ´Cachorro´ e ´Gato´ podem ter os dois um método ´fazerSom()´, mas cada um executa à sua maneira.
+
+---
 
 ## Perguntas sobre Programação Orientada a Objetos (POO)
 
