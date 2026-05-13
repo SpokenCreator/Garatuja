@@ -55,7 +55,7 @@ Atributo são as características do objeto. Se a classe é `Carro`, os atributo
 ---
 
 ### Método
-Método é o comportamento do objeto — o que ele pode fazer. Ainda no ´Carro´, métodos seriam ´acelerar()´, ´frear()´ e ´ligar()´. É basicamente uma função que pertence à classe.
+Método é o comportamento do objeto — o que ele pode fazer. Ainda no `Carro`, métodos seriam `acelerar()`, `frear()` e ´ligar()´. É basicamente uma função que pertence à classe.
 
 ---
 
